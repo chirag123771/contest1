@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    border: 0px;
+
+}
+.nav1{
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding: 15px;
+}
+.heading ,.para,.b1,.h2,.img1,.o1{
+    margin: 15px;
+}
+.b1{
+    color: white;
+    background-color: black;
+    
+}
